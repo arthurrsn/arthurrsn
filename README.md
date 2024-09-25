@@ -1,6 +1,6 @@
 # Olá! Eu sou Arthur Ribeiro 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36F709&width=435&lines=Desenvolvedor+apaixonado;por+tecnologia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36F709&width=435&lines=Desenvolvedor+apaixonado+por+tech;Buscando+solu%C3%A7%C3%B5es+inovadoras)](https://git.io/typing-svg)
 
 ---
 
