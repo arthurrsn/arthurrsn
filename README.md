@@ -55,7 +55,7 @@ Aqui estão alguns projetos que que eu tenho carinho adicional:
 
 Se você quiser conversar sobre tecnologia, projetos ou oportunidades, sinta-se à vontade para me chamar:
 
-- 💼 **LinkedIn**: [Arthur Ribeiro](www.linkedin.com/in/arthur-ribeiro2007)
+- 💼 **LinkedIn**: [Arthur Ribeiro](https://www.linkedin.com/in/arthur-ribeiro2007)
 - 📧 **Email**: [ribax.dev@gmail.com](mailto:ribax.dev@gmail.com)
 
 ---
