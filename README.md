@@ -10,7 +10,7 @@ Sou um desenvolvedor em formação, atualmente estudando Data Science. Estou ent
 
 - 💡 **Objetivo**: Aplicar meus conhecimentos em projetos práticos e reais.
 - 🌱 **Atualmente aprendendo**: Engenharia de dados.
-- 🎯 **Meta de 2024**: Desenvolver minhas habilidades em Data Science.
+- 🎯 **Meta de 2025**: Desenvolver minhas habilidades em Data Science.
 - ✍️ **Curiosidade**: Acredito no poder de **comunidades** e **conhecimento compartilhado**, e estou sempre aberto a colaborar com outros.
 
 
