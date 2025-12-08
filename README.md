@@ -8,7 +8,7 @@
 
 Sou Arthur Ribeiro, estudante de **Análise e Desenvolvimento de Sistemas** e um desenvolvedor em formação que adora botar a mão na massa e encarar a adrenalina de resolver problemas complexos. Minha paixão por engenharia de software é essa: criar impacto e resolver problemas complexos com código.
 
-Minha jornada na **MRV&CO** (como Menor Aprendiz em TI) me fez dar um salto da área Administrativa para o coração do desenvolvimento. Por lá, já mergulhei em projetos que vão do **desenvolvimento de sistemas em Python** (como o Ccron, com repaginação de arquitetura hexagonal) à criação de um **ChatBot em produção** com **Recuperação Semântica (Python, Gemini API, Pinecone)** que otimizou processos. Acredito que a constância e a aplicação prática são o que realmente fazem a gente crescer. Não prove sua qualidade com diploma, e sim com a **PRÁTICA**! 🚀
+Eu estou trabalhando na DTI Digital como Estagiário em Desenvolvimento de Software, trabalhando remotamente para todo o Brasil. 🚀
 
 ---
 
