@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Sobre mim: Onde a Teoria Vira Impacto!
 
-Sou Arthur Ribeiro, estudante de **Análise e Desenvolvimento de Sistemas** e um desenvolvedor em formação que adora botar a mão na massa e encarar a adrenalina de resolver problemas complexos. Minha paixão por engenharia de software é essa: criar impacto e resolver problemas complexos com código.
+**Sou Arthur Ribeiro, Desenvolvedor Java BackEnd**. Atualmente curso **Análise e Desenvolvimento de Sistemas** na Universidade Positivo. Minha paixão por código é sentir cada adrenalina de resolver um problema depois de 3 dias fritado e se sentir o cara mais inteligente do mundo. Depois, o ciclo recomeça.
 
 Eu estou trabalhando na DTI Digital como Estagiário em Desenvolvimento de Software, trabalhando remotamente para todo o Brasil. 🚀
 
@@ -17,7 +17,6 @@ Eu estou trabalhando na DTI Digital como Estagiário em Desenvolvimento de Softw
 ### 🛠️ Linguagens
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 💻 Frameworks & Bibliotecas
@@ -25,13 +24,10 @@ Eu estou trabalhando na DTI Digital como Estagiário em Desenvolvimento de Softw
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 
 ### 🗄️ Bancos de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ### ⚙️ Ferramentas & DevOps
@@ -41,9 +37,9 @@ Eu estou trabalhando na DTI Digital como Estagiário em Desenvolvimento de Softw
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 💡 Conceitos & Interesses
-* **Arquitetura de Software:** MVC, Arquitetura em Camadas, Arquitetura Hexagonal, API REST, Microsserviços (planejamento)
+* **Arquitetura de Software:** MVC, Arquitetura em Camadas, Arquitetura Hexagonal, API RESTful
 * **Programação:** Orientação a Objetos (POO), Design Patterns, Qualidade de Código
-* **Áreas de Interesse:** Data Science, Inteligência Artificial (IA), Cybersecurity, Backend
+* **Áreas de Interesse:** Backend, IA, Cybersecurity
 
 ---
 
@@ -67,8 +63,8 @@ Se você quiser trocar uma ideia sobre tecnologia, projetos ou oportunidades, si
 
 ## 🔥 Curiosidades
 
-* 🎮 Gamer nas horas vagas! Gosto de The Witcher 3, The Sims 4, e explorar novos mundos virtuais.
-* 📚 Sempre lendo livros, atualmente imerso em sagas e universos fantásticos.
+* 🎮 Gamer nas horas vagas! Gosto de TLOU 2, Fifa, e aproveitar aquela doze anual de Minecraft.
+* 📚 Sempre lendo livros, atualmente imerso no Use a cabeça - Java.
 * 🌍 Apaixonado por explorar novas tecnologias e conhecer pessoas ao redor do mundo, ampliando horizontes.
 
 ---
