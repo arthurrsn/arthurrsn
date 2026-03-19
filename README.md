@@ -60,8 +60,8 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurrsn&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" alt="Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurrsn&layout=compact&langs_count=6&theme=dracula&hide_border=true&bg_color=00000000" alt="Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arthurrsn&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000&cache_seconds=1800" alt="Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurrsn&layout=compact&langs_count=6&theme=dracula&hide_border=true&bg_color=00000000&cache_seconds=1800" alt="Languages" height="150" />
 </div>
 
 <br />
