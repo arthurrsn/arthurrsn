@@ -32,7 +32,7 @@
 - 🛠️ Passionate about building robust APIs and scalable systems.
 
 
-<br></br>
+<br />
 
 <div align="center">
   <table border="1">
