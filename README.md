@@ -49,7 +49,15 @@
   </table>
 </div>
 
-<br></br>
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthurrsn/arthurrsn/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthurrsn/arthurrsn/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arthurrsn/arthurrsn/output/pacman-contribution-graph.svg">
+</picture>
+
+<br />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arthurrsn&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" alt="Stats" height="150" />
@@ -59,19 +67,9 @@
 <br />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=bot,music" height="40" />
-  <br />
   <b>Researching:</b> Humanoid Robotics, AI applications & CyberSec 🦾
   <br />
   <b>Latest Goal:</b> to expose my way of thinking to the world⚡
   <br />
   <b>In My Headphones:</b> Pagode & Blues 🎸
 </div>
-
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
